@@ -1,8 +1,8 @@
-# Frontier Atlas — Research Intelligence pipeline 
+# frontier atlas — Research Intelligence pipeline 
 
 An automated research intelligence pipeline for discovering, enriching, validating, and organizing research papers, news, jobs, and related technical signals from multiple sources.
 
-## overview
+## overview 
 
 Frontier Atlas is a research intelligence system designed to turn fragmented information from academic and technical sources into structured, validated, and enriched research data.
 
@@ -10,7 +10,7 @@ The system combines web/data crawlers, GitHub discovery, LLM-based enrichment, v
 
 The goal is to make it easier to discover emerging research, understand individual papers, identify related technical activity, and produce structured research intelligence that can be used for downstream analysis.
 
-## Key Features
+## key  feature 
 
 Research Paper Discovery
 
