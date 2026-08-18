@@ -44,7 +44,7 @@ Data Validation
 
 Date Parsing
 
-* Normalize dates from different sources into consistent formats.
+* Normalize dates from  different sources into  consistent fortams 
 
 Data Processing & Merging
 
