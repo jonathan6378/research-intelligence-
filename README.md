@@ -69,52 +69,9 @@ The src directory contains the core system implementation. It includes crawlers 
 
 ## Technology Stack
 
-The system is built in Python. It uses crawlers for research discovery, GitHub APIs for repository intelligence, LLM-based processing for enrichment, schema-based validation for data integrity, and modular Python scripts for data processing and testing. Dependencies are managed through a requirements file.
+The system is built in Python. It uses crawlers for research discovery, GitHub APIs for repository intelligence, LLM-based processing for enrichment, schema-based validation for data integrity, and modular Python scripts for data processing and testing. Dependencies are managed through a requirements fil
 
-## Installation
 
-Clone the repository:
-
-```bash
-git clone https://github.com/jonathan6378/research-intelligence-.git
-cd research-intelligence-
-```
-
-Create a virtual environment:
-
-Windows:
-
-```powershell
-python -m venv .venv
-.venv\Scripts\activate
-```
-
-macOS / Linux:
-
-```bash
-python3 -m venv .venv
-source .venv/bin/activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-Create environment configuration:
-
-```bash
-cp .env.example .env
-```
-
-On Windows PowerShell:
-
-```powershell
-Copy-Item .env.example .env
-```
-
-Then configure required API keys and settings inside the `.env` file.
 
 ## Running the Pipeline
 
